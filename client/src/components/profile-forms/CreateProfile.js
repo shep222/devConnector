@@ -52,6 +52,16 @@ const CreateProfile = ({ createProfile, history }) => {
         <i className="fas fa-user"></i> Let's get some information to make your
         profile stand out
       </p>
+
+      <h1 className="">Your photo comes from Gravar.</h1>
+      <h1 className="">
+        Click{" "}
+        <a href="http://gravatar.com" target="_blank" rel="noopener noreferrer">
+          HERE
+        </a>{" "}
+        to create an account
+      </h1>
+
       <small>* = required field</small>
       <form className="form" onSubmit={(e) => onSubmit(e)}>
         <div className="form-group">
