@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://shep123:shep123@devconnector-rvu34.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0f36373bd88c4820c40e",
+  "githubSecret": "7f7b398494e4c7625310fd332e74e69936704cf6"
+}
